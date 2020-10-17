@@ -1,0 +1,53 @@
+.logo{
+    height: 60px;
+    margin-left: 45px;
+}
+.image{
+    height: 100%;
+    width: 90%;
+    margin-left: 45px;
+}
+.left{
+    padding-top: 100px;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.right{
+    float: left;
+    width: 50%;
+    margin: 0px auto;
+}
+.form{
+    float: left;
+    margin: 140px 0px 26px 225px;
+}
+.link{
+    margin-top: 40px;
+    margin-right: 40px;
+    float: right;
+    font-size: 27px;
+}
+.head{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.label{
+    margin-bottom: 10px;
+    width: 500px;
+}
+.label input{
+    width: 100%;
+    height: 30px;
+}
+.label button{
+    margin-top: 15px;
+    margin-left: 189px;
+    height: 35px;
+    width: 150px;
+}
+.link a{
+    text-decoration: none;
+    color: #3AA3F9;
+}

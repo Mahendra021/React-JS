@@ -1,0 +1,60 @@
+.head1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.main{
+    width: 60%;
+    margin: 0px auto;
+}
+.title{
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.title input{
+    height: 30px;
+    width: 53%;
+    margin-top: 10px;
+}
+.heading{
+    font-size: 25px;
+}
+#list{
+    margin: 10px;
+    width: 51%;
+}
+#list input{
+    height: 25px;
+    width: 100%;
+    margin-top: 12px;
+    margin-left: 11PX;
+}
+.add{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.add button{
+    height: 35px;
+    width: 150px;
+}
+.name{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px;
+}
+.email{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px;
+}
+.desc{
+    font-size: 25px;
+    margin-top: 19px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.desc textarea{
+    height: 75px;
+    width: 50%;
+}
